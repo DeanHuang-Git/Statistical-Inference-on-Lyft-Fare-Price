@@ -16,4 +16,4 @@ The outcome of the study shows that time, distance of the ride, and surge multip
 for fare price. In addition, there is enough evidence to conclude that the association between surge multiplier
 and fare price differs by rush hour and by destination.
 
-Fore more details about the project, please refer to the [report]().
+Fore more details about the project, please refer to the [report](https://github.com/DeanHuang-Git/Statistical-Inference-on-Lyft-Fare-Price/blob/main/Reports/Final-Project.pdf).
